@@ -14,4 +14,3 @@ export CMAKE_C_COMPILER=mpiicc
 export CMAKE_CXX_COMPILER=mpiicpc
 export CMAKE_Fortran_COMPILER=mpiifort
 export CMAKE_Platform=orion.intel
-
